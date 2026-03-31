@@ -59,3 +59,5 @@ Documentation
 -------------
 
 Read the [documentation](https://docs.facefusion.io) for a deep dive.
+
+本地环境部署 [click me](README_deploy.md).

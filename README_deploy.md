@@ -64,6 +64,7 @@ python facefusion.py run
 
 
 **web页面参数介绍**
+
 ![alt text](docx\image.png)
 - face_swapper: 替换人脸
 - face_debugger: 显示的展示标记点
