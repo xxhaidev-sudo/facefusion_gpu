@@ -1,6 +1,8 @@
 # 本地化部署方案.
 基于官方github地址：https://github.com/facefusion/facefusion 截至日期为：2026-03-31
 
+**目前暂不支持多人同时使用**
+
 ## cpu环境部署步骤：
 1. 推荐使用conda虚拟环境，如果没有anaconda请自行安装。 官网地址：https://www.anaconda.com/products/individual
 
